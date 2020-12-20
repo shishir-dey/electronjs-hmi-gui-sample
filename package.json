@@ -1,0 +1,13 @@
+{
+  "name": "traffic-monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.1.13"
+  }
+}
