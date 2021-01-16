@@ -2,4 +2,4 @@
 
 A screenshot:
 
-![](./screenshots/0.jfif =100x)
+![](screenshots/0.jfif | width=100)
