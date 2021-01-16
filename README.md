@@ -2,4 +2,4 @@
 
 A screenshot:
 
-![GUI](screenshots/0.jfif =100x100)
+![](./screenshots/0.jfif =100x)
