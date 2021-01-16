@@ -2,4 +2,4 @@
 
 A screenshot:
 
-<img src="screenshots/0.jfif" width=100 height=100>
+<img src="screenshots/0.jfif" width=800 height=600>
